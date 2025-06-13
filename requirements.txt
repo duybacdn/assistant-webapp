@@ -11,7 +11,6 @@ PyRect==0.2.0
 PyScreeze==1.0.1
 pyttsx3==2.98
 pytweening==1.2.0
-pywin32==310
 SpeechRecognition==3.14.3
 standard-aifc==3.13.0
 standard-chunk==3.13.0
